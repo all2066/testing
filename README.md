@@ -1,4 +1,4 @@
-# Testing Java
+# Testing Java Course
 
 ##### Table of contents
 * [Introduction](#introduction) 
@@ -8,7 +8,7 @@
 * [Illustrations](#illustrations)
 
 ## Introduction
-We learn that exist manual and automatic tests, the automatic ones will need more development time and sometimes not be visible, but you better try to make automatic tests because:
+We learned that exists manual and automatic tests, the automatic ones will need more development time and sometimes not be visible, but it will be better if you try to make automatic tests because:
 * They are faster.
 * They are more reliable.
 * They are incremental.
